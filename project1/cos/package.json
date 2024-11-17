@@ -1,0 +1,15 @@
+{
+    "name": "cos",
+    "version": "1.0.0",
+    "description": "Our First Node.js Package",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Christopher Andrew Topalian",
+    "license": "",
+    "files": [
+        "src"
+    ]
+}
+
